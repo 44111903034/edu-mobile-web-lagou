@@ -1,5 +1,5 @@
 <template>
-  <!-- 根路由出口 -->
+  gen
   <router-view/>
 </template>
 
