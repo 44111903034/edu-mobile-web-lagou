@@ -1,10 +1,12 @@
 <template>
-  <!-- 根路由出口 -->
-  <router-view/>
+  <div class="error-page">
+    找不到访问的页面...
+  </div>
 </template>
 
 <script>
 export default {
+  name: 'ErrorPage'
 }
 </script>
 
